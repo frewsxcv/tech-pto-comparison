@@ -4,14 +4,6 @@ Please add your employer! For questions about this doc, contact Corey (<coreyf@r
 
 ------------------
 
-## 🏢 18F, USDS, and other US federal agencies
-
-_Last updated: May 2022._
-
-<https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/>
-
-Starting PTO is 13 days
-
 ## 🏢 Amazon
 
 _Last updated: May 2022._
@@ -252,6 +244,14 @@ You can carry-forward 5 days to the next calendar year. They are forfeited if no
 _Last updated: May 2022._
 
 "Unlimited" PTO[^unlimited]
+
+## 🏢 [OPM](https://en.wikipedia.org/wiki/United_States_Office_of_Personnel_Management) (e.g. [18F](https://en.wikipedia.org/wiki/18F), [USDS](https://en.wikipedia.org/wiki/United_States_Digital_Service))
+
+_Last updated: May 2022._
+
+<https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/>
+
+Starting PTO is 13 days
 
 ## 🏢 Pokemon Company International
 
