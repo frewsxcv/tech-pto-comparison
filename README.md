@@ -126,7 +126,7 @@ The first two were introduced during the pandemic and I'm not sure whether they'
 
 _Last updated: May 2022._
 
-"Unlimited" PTO
+"Unlimited" PTO[^1]
 
 ## 🏢 Google
 
@@ -170,7 +170,7 @@ Birthing Parent: 14 weeks (6+8) paid
 
 PTO:
 
- Engineering: Unlimited
+ Engineering: "Unlimited" PTO[^1]
 
  Hourly Roles: ???
 
@@ -178,7 +178,7 @@ PTO:
 
 _Last updated: May 2022._
 
-Unlimited PTO
+"Unlimited" PTO[^1]
 
 ## 🏢 Kickstarter
 
@@ -204,7 +204,7 @@ Vacation days do not roll over from year to year and employees are not eligible 
 
 _Last updated: May 2022._
 
-"Unlimited" PTO
+"Unlimited" PTO[^1]
 
 ## 🏢 LinkedIn
 
@@ -251,7 +251,7 @@ You can carry-forward 5 days to the next calendar year. They are forfeited if no
 
 _Last updated: May 2022._
 
-"Unlimited" PTO
+"Unlimited" PTO[^1]
 
 ## 🏢 Pokemon Company International
 
@@ -276,7 +276,7 @@ TPCi encourages its employees to take time away from the business to recharge! O
 
 _Last updated: May 2022._
 
-"Unlimited" PTO
+"Unlimited" PTO[^1]
 
 ## 🏢 Salesforce
 
