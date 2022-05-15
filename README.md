@@ -296,7 +296,7 @@ _Last updated: May 2022._
 
 "Unlimited" PTO[^unlimited]
 
-[^unlimited]: Despite the name, "Unlimited" PTO is not unlimited
+[^unlimited]: "Unlimited" PTO is rarely unlimited and has drawbacks
 [[1]](https://lifehacker.com/why-unlimited-vacation-days-is-a-scam-1847255661)
 [[2]](https://workforce.com/news/unlimited-paid-time-off-is-a-deceptive-ploy-in-todays-workplace)
 [[3]](https://www.facet.net/posts/why-we-ditched-our-unlimited-vacation-plan)
