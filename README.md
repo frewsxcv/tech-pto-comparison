@@ -1,23 +1,20 @@
-Comparing Company PTO
+# Comparing Company PTO
 
 Please add your employer! For questions about this doc, contact Corey (<coreyf@rwell.org>)
 
 ------------------
 
-18F, USDS, and other US federal agencies
-========================================
+## 18F, USDS, and other US federal agencies
 
 <https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/>
 
 Starting PTO is 13 days
 
-Amazon
-======
+## Amazon
 
 (Supposedly very variable across the company?)
 
-United States Amazon employees
-------------------------------
+### United States Amazon employees
 
 <https://www.amazon.jobs/en/landing_pages/pto-overview-us> (US)
 
@@ -25,8 +22,7 @@ United States Amazon employees
 
 ![](https://lh4.googleusercontent.com/b5mNbkDUVhKt_lYSJD5CvPNn9xkCNHP8D7wZhYuW6fMNdtNSpWZ0rlz8gqyvn1CXYtHYGx3z4Juu5vqzQ_BK2sEuf_avSISBBqcEuyuBwcdhE2SUgnZCUTqPG0kkMaV_VUdoNaOdRhtownUDhg)
 
-California Amazon employees
----------------------------
+### California Amazon employees
 
 <https://www.amazon.jobs/en/landing_pages/pto-california-corp> (California)
 
@@ -38,49 +34,45 @@ California Amazon employees
 
 3 floating days per year in any full year of employment
 
-Apple
-=====
+## Apple
 
 ![](https://lh3.googleusercontent.com/TUvVexeG9YRqLFn4eLzebTQolGOK1NZXSVqP9CknuDRCAWIMgUiN4qijYayO07Ch5Dk7x1wM-ylFInwl0UUgrt0bD8tKUgmlhwMsiskKCQiXX_3WTPLk4CFM54wr28eXevCQi-oee8D19UD7_w)
 
 The company usually shuts down historically between Christmas and New Years. And also the week of Thanksgiving.
 
-Bloomberg
-=========
+## Bloomberg
 
 ### For US Positions
 
--   Paid Time Off can be taken in either half or full days. 5 days can be rolled over to the next calendar year
+- Paid Time Off can be taken in either half or full days. 5 days can be rolled over to the next calendar year
 
--   20 days per year until 10 years of service
+- 20 days per year until 10 years of service
 
--   23 days per year from 10 to 19 years of service
+- 23 days per year from 10 to 19 years of service
 
--   25 days per year after 20 years of service
+- 25 days per year after 20 years of service
 
--   Holiday calendar is taken from the [NYSE trading holiday calendar](https://www.nyse.com/markets/hours-calendars)
+- Holiday calendar is taken from the [NYSE trading holiday calendar](https://www.nyse.com/markets/hours-calendars)
 
--   Guaranteed 11 paid holiday days per year, when there are fewer than 11 non-trading days in the NYSE calendar they are added to that year's leave balance
+- Guaranteed 11 paid holiday days per year, when there are fewer than 11 non-trading days in the NYSE calendar they are added to that year's leave balance
 
--   Unlimited sick leave, policy states that on the fourth consecutive sick day you must contact the disability administrator (external company) to see if you should switch to short term disability or some other family/medical leave
+- Unlimited sick leave, policy states that on the fourth consecutive sick day you must contact the disability administrator (external company) to see if you should switch to short term disability or some other family/medical leave
 
-Cisco
-=====
+## Cisco
 
--   20 days of base PTO per year regardless of tenure. Employees are generally forced to take 4-6 of these days during the annual company "shutdown" between Christmas and New Years, however.
+- 20 days of base PTO per year regardless of tenure. Employees are generally forced to take 4-6 of these days during the annual company "shutdown" between Christmas and New Years, however.
 
--   1 "floating holiday" (nearly indistinguishable from PTO but does not accrue in the same way)
+- 1 "floating holiday" (nearly indistinguishable from PTO but does not accrue in the same way)
 
--   10 "Time2Give" days to do volunteer work etc.
+- 10 "Time2Give" days to do volunteer work etc.
 
--   1 day off for your birthday
+- 1 day off for your birthday
 
--   "Emergency Time Off" - to be used for serious illness, bereavement, family emergencies, etc. - is separate from standard PTO and does not have an explicit limit
+- "Emergency Time Off" - to be used for serious illness, bereavement, family emergencies, etc. - is separate from standard PTO and does not have an explicit limit
 
--   11 standard company holidays + (as of 2022) 4 additional scheduled days off ("days for me")
+- 11 standard company holidays + (as of 2022) 4 additional scheduled days off ("days for me")
 
-Discord
-=======
+## Discord
 
 (16) paid holidays each year including a week off for winter holidays.
 
@@ -92,37 +84,33 @@ Discord
 
 Flexible Sick Time.
 
-Etsy
-====
+## Etsy
 
 ![](https://lh5.googleusercontent.com/g5NPjbFgvz5jRCptpAhEvD9IFpQc_9JiB8GLKUsasMbY5iMkhxRTaVSZIg2w0GRYGNYgiEZNKSisvWoyydWQU8YV2g6Pc7Hj7RsmsuZIUzbrIUFVnNIPbiv8oIanArul3J8o3_3U-U9CZYyzcA)
 
 Also includes 2 floating holidays
 
-Facebook
-========
+## Facebook
 
 You accrue 21 days/yr, capped at 31.5 days (both regardless of tenure)
 
 There are also a bunch of PTO-related/adjacent benefits:
 
--   2 extra "Choice Days" per year, which are pretty much PTO days outside of the accrual process
+- 2 extra "Choice Days" per year, which are pretty much PTO days outside of the accrual process
 
--   5 "Meta Days" each year (company days off)
+- 5 "Meta Days" each year (company days off)
 
--   you can use up to 10 days of PTO you haven't accrued yet
+- you can use up to 10 days of PTO you haven't accrued yet
 
--   every 5 years you can take a 30-day paid recharge leave
+- every 5 years you can take a 30-day paid recharge leave
 
 The first two were introduced during the pandemic and I'm not sure whether they'll last long-term, but that's this year's policy, at least.
 
-Fastly
-======
+## Fastly
 
 "Unlimited" PTO
 
-Google
-======
+## Google
 
 PTO: 1-4 years is 20 days, 5+ is 25, accrual cap is 300 hours
 
@@ -130,15 +118,13 @@ Sick leave is unlimited up to 5 days consecutively before requiring medical leav
 
 You can "borrow" pto you haven't accrued yet up to 5 days.
 
-[Greynoise](https://www.greynoise.io/)
-======================================
+## [Greynoise](https://www.greynoise.io/)
 
 Unlimited paid time off. To encourage time off from work and ensure overall employee health and wellness, GreyNoise requires each employee to take at least 120 hours of PTO (3 weeks) annually, including at least five consecutive business days
 
 Source: <https://jobs.greynoise.io/>
 
-[GrowthZone](https://www.growthzone.com)
-========================================
+## [GrowthZone](https://www.growthzone.com)
 
 0-2 years: 10 days/3.08 hours per fortnightly pay period
 
@@ -148,10 +134,9 @@ Source: <https://jobs.greynoise.io/>
 
 No separate sick time. 2 floating holidays per year. No paid maternal or paternal leave.
 
-GrubHub
-=======
+## GrubHub
 
-Parental Leave: 
+Parental Leave:
 
 Birthing Parent: 14 weeks (6+8) paid
 
@@ -163,13 +148,11 @@ PTO:
 
  Hourly Roles: ???
 
-Gusto 
-======
+## Gusto
 
 Unlimited PTO
 
-Kickstarter 
-============
+## Kickstarter
 
 Approx. 100 employees.
 
@@ -187,21 +170,17 @@ Additionally, there is a winter break (office closure) during the last week of D
 
 Vacation days do not roll over from year to year and employees are not eligible to be compensated for unused vacation days upon separation from Kickstarter (unless required by local/state law).
 
-Instacart
-=========
+## Instacart
 
 "Unlimited" PTO
 
-LinkedIn
-========
+## LinkedIn
 
 (Contributor needed!)
 
-Microsoft
-=========
+## Microsoft
 
-United States
--------------
+### United States
 
 |
 
@@ -227,7 +206,7 @@ annual vacation granted
 
  |
 
-Maximum carry over grant to next year 
+Maximum carry over grant to next year
 
  |
 |
@@ -374,8 +353,7 @@ Part-time employees' vacation accrual rate and maximum annual vacation are pro-r
 
  |
 
-Canada
-------
+### Canada
 
 |
 
@@ -426,19 +404,17 @@ In addition to regular Vacation Entitlement, all employees are eligible for 2 Fl
 
 You can carry-forward 5 days to the next calendar year. They are forfeited if not used by December 31 of that following year.
 
-Netflix
-=======
+## Netflix
 
 "Unlimited" PTO
 
-Pokemon Company International
-=============================
+## Pokemon Company International
 
-2022 Paid Holidays 
+2022 Paid Holidays
 
-TPCi observes the following paid holidays: New Year's Day, Martin Luther King Jr. Day, the Friday prior to Memorial Day and Memorial Day, Fourth of July, Labor Day, Thanksgiving Day, and the day after Thanksgiving. In addition, TPCi observes a holiday week at the end of the calendar year. In addition, TPCi provides two (2) paid days for floating holidays per calendar year. 
+TPCi observes the following paid holidays: New Year's Day, Martin Luther King Jr. Day, the Friday prior to Memorial Day and Memorial Day, Fourth of July, Labor Day, Thanksgiving Day, and the day after Thanksgiving. In addition, TPCi observes a holiday week at the end of the calendar year. In addition, TPCi provides two (2) paid days for floating holidays per calendar year.
 
-Paid Time Off 
+Paid Time Off
 
 TPCi encourages its employees to take time away from the business to recharge! Our current accrual schedule is as follows:
 
@@ -549,27 +525,22 @@ Days Accrued
 
  |
 
-Pure Storage
-============
+## Pure Storage
 
 "Unlimited" PTO
 
-Salesforce
-==========
+## Salesforce
 
 (Contributor needed!)
 
-SoundCloud
-==========
+## SoundCloud
 
 (Contributor needed!)
 
-Spotify
-=======
+## Spotify
 
 (Contributor needed!)
 
-Uplight
-=======
+## Uplight
 
 "Unlimited" PTO
