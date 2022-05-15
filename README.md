@@ -218,223 +218,30 @@ _Last updated: May 2022._
 
 ### United States
 
-|
-
-Vacation accrual schedule for full-time salaried employees
-
- |\
- |
-|
-
-Years of service
-
- |
-
-Vacation grant rate*
-
-(per pay period x 24)
-
- |
-
-Maximum
-
-annual vacation granted
-
- |
-
-Maximum carry over grant to next year
-
- |
-|
-
-0-6 years
-
- |
-
-5.0 hours
-
- |
-
-15 days (120 hours)
-
- |
-
-15 days 
-
- |
-|
-
-7-12 years
-
- |
-
-6.67 hours
-
- |
-
-20 days (160 hours)
-
- |
-
-20 days 
-
- |
-|
-
-13 or more years
-
- |
-
-8.34 hours
-
- |
-
-25 days (200 hours)
-
- |
-
-25 days 
-
- |
-|
-
-Part-time employees' vacation accrual rate and maximum annual vacation are pro-rated based on the percentage of full-time hours worked.
-
- |
-
-|
-
-Vacation accrual schedule for full-time hourly employees
-
- |\
- |
-| --- | --- |
-|
-
-Years of service
-
- |
-
-Vacation grant rate*
-
-(per pay period x 26)
-
- |
-
-Maximum
-
-annual vacation granted
-
- |
-
-Maximum carry over grant to next year 
-
- |
-| --- | --- | --- | --- |
-|
-
-0-6 years
-
- |
-
-4.62 hours
-
- |
-
-15 days (120 hours)
-
- |
-
-15 days 
-
- |
-| --- | --- | --- | --- |
-|
-
-7-12 years
-
- |
-
-6.16 hours
-
- |
-
-20 days (160 hours)
-
- |
-
-20 days 
-
- |
-|
-
-13 or more years
-
- |
-
-7.7 hours
-
- |
-
-25 days (200 hours)
-
- |
-
-25 days 
-
- |
-|
-
-Part-time employees' vacation accrual rate and maximum annual vacation are pro-rated based on the percentage of full-time hours worked.
-
- |
+| Vacation accrual schedule for full-time salaried employees                                                                              |                                              |                                                            |                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------- |
+| Years of service                                                                                                                        | Vacation grant rate\* (per pay period x 24)  | Maximum annual vacation granted                            | **Maximum carry over grant to next year** |
+| 0-6 years                                                                                                                               | 5.0 hours                                    | 15 days (120 hours)                                        | 15 days                                   |
+| 7-12 years                                                                                                                              | 6.67 hours                                   | 20 days (160 hours)                                        | 20 days                                   |
+| 13 or more years                                                                                                                        | 8.34 hours                                   | 25 days (200 hours)                                        | 25 days                                   |
+| Part-time employees' vacation accrual rate and maximum annual vacation are pro-rated based on the percentage of full-time hours worked. |
+
+| Vacation accrual schedule for full-time hourly employees                                                                                |                                              |                                 |                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------- | ------------------------------------------|
+| Years of service                                                                                                                        | Vacation grant rate\* (per pay period x 26)  | Maximum annual vacation granted | **Maximum carry over grant to next year** |
+| 0-6 years                                                                                                                               | 4.62 hours                                   | 15 days (120 hours)             | 15 days                                   |
+| 7-12 years                                                                                                                              | 6.16 hours                                   | 20 days (160 hours)             | 20 days                                   |
+| 13 or more years                                                                                                                        | 7.7 hours                                    | 25 days (200 hours)             | 25 days                                   |
+| Part-time employees' vacation accrual rate and maximum annual vacation are pro-rated based on the percentage of full-time hours worked. |
 
 ### Canada
 
-|
-
-Years of service
-
- |
-
-Vacation entitlement
-
- |
-|
-
-New hire
-
- |
-
-1.5 day for each month of service
-
- |
-|
-
-1 to 5 years
-
- |
-
-20 days
-
- |
-|
-
-6 to 12 years
-
- |
-
-23 days
-
- |
-|
-
-13+ and more years
-
- |
-
-25 days\
- |
+| Years of service     | Vacation entitlement              |
+| -------------------- | --------------------------------- |
+| New hire             | 1.5 day for each month of service |
+| 1 to 5 years         | 20 days                           |
+| 6 to 12 years        | 23 days                           |
+| 13+ and more years   | 25 days
 
 In addition to regular Vacation Entitlement, all employees are eligible for 2 Floater Days. Provided that employees have sufficient personal days remaining, they are welcome to use that day for observance of days which are not official statutory holidays. Unused Floater Days cannot be carried over to the next calendar year and will be forfeited.
 
