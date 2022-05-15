@@ -265,112 +265,12 @@ Paid Time Off
 
 TPCi encourages its employees to take time away from the business to recharge! Our current accrual schedule is as follows:
 
-|
-
-Years of Service
-
- |
-
-Accrual Rate Per
-
-Bi‐Weekly Pay
-
-Period
-
- |
-
-Annual # of Days
-
-Accrued
-
- |
-
-Maximum # of
-
-Days Accrued
-
- |
-|
-
-0 to 3.99 years of service
-
-(Years 1, 2, 3)
-
- |
-
-0.77 Days
-
-(6.15 hours)
-
- |
-
-20
-
- |
-
-40
-
- |
-|
-
-4.0 to 5.99 years of service
-
-(Years 4, 5)
-
- |
-
-0.96 Days
-
-(7.69 hours)\
- |
-
-25
-
- |
-
-50
-
- |
-|
-
-6.0 to 9.99 years of service
-
-(Years 6, 7, 8, 9)
-
- |
-
-1.15 Days (9.23 hours)
-
- |
-
-30
-
- |
-
-60
-
- |
-|
-
-10+ years of service
-
-(Years 10+)
-
- |
-
-1.34 Days
-
-(10.77 hours)
-
- |
-
-35
-
- |
-
-70
-
- |
+| Years of Service                                 | Accrual Rate Per Bi‐Weekly Pay Period | Annual # of Days Accrued | Maximum # of Days Accrued |
+| ------------------------------------------------ | ------------------------------------- | ------------------------ | ------------------------- |
+| 0 to 3.99 years of service (Years 1, 2, 3)   | 0.77 Days (6.15 hours)                | 20                       | 40                        |
+| 4.0 to 5.99 years of service (Years 4, 5)    | 0.96 Days (7.69 hours)                | 25                       | 50                        |
+| 6.0 to 9.99 years of service (Years 6, 7, 8, 9) | 1.15 Days (9.23 hours)             | 30                       | 60                        |
+| 10+ years of service (Years 10+)                | 1.34 Days (10.77 hours)            | 35                       | 70                        |
 
 ## 🏢 Pure Storage
 
