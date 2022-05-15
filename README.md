@@ -18,7 +18,7 @@ _Last updated: May 2022._
 
 (Supposedly very variable across the company?)
 
-### United States Amazon employees
+### 🇺🇸 United States
 
 <https://www.amazon.jobs/en/landing_pages/pto-overview-us> (US)
 
@@ -26,7 +26,7 @@ _Last updated: May 2022._
 
 ![](https://lh4.googleusercontent.com/b5mNbkDUVhKt_lYSJD5CvPNn9xkCNHP8D7wZhYuW6fMNdtNSpWZ0rlz8gqyvn1CXYtHYGx3z4Juu5vqzQ_BK2sEuf_avSISBBqcEuyuBwcdhE2SUgnZCUTqPG0kkMaV_VUdoNaOdRhtownUDhg)
 
-### California Amazon employees
+### 🇺🇸 California
 
 <https://www.amazon.jobs/en/landing_pages/pto-california-corp> (California)
 
@@ -216,7 +216,7 @@ _Last updated: May 2022._
 
 _Last updated: May 2022._
 
-### United States
+### 🇺🇸 United States
 
 | Vacation accrual schedule for full-time salaried employees |                                             |                                 |                                           |
 |------------------------------------------------------------|---------------------------------------------|---------------------------------|-------------------------------------------|
@@ -234,7 +234,7 @@ _Last updated: May 2022._
 | 13 or more years                                         | 7.7 hours                                   | 25 days (200 hours)             | 25 days                                   |
 | Part-time employees' vacation accrual rate and maximum annual vacation are pro-rated based on the percentage of full-time hours worked. |
 
-### Canada
+### 🇨🇦 Canada
 
 | Years of service | Vacation entitlement              |
 |------------------|-----------------------------------|
