@@ -6,11 +6,15 @@ Please add your employer! For questions about this doc, contact Corey (<coreyf@r
 
 ## 18F, USDS, and other US federal agencies
 
+_Last updated: May 2022._
+
 <https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/>
 
 Starting PTO is 13 days
 
 ## Amazon
+
+_Last updated: May 2022._
 
 (Supposedly very variable across the company?)
 
@@ -36,11 +40,15 @@ Starting PTO is 13 days
 
 ## Apple
 
+_Last updated: May 2022._
+
 ![](https://lh3.googleusercontent.com/TUvVexeG9YRqLFn4eLzebTQolGOK1NZXSVqP9CknuDRCAWIMgUiN4qijYayO07Ch5Dk7x1wM-ylFInwl0UUgrt0bD8tKUgmlhwMsiskKCQiXX_3WTPLk4CFM54wr28eXevCQi-oee8D19UD7_w)
 
 The company usually shuts down historically between Christmas and New Years. And also the week of Thanksgiving.
 
 ## Bloomberg
+
+_Last updated: May 2022._
 
 ### For US Positions
 
@@ -60,6 +68,8 @@ The company usually shuts down historically between Christmas and New Years. And
 
 ## Cisco
 
+_Last updated: May 2022._
+
 - 20 days of base PTO per year regardless of tenure. Employees are generally forced to take 4-6 of these days during the annual company "shutdown" between Christmas and New Years, however.
 
 - 1 "floating holiday" (nearly indistinguishable from PTO but does not accrue in the same way)
@@ -74,6 +84,8 @@ The company usually shuts down historically between Christmas and New Years. And
 
 ## Discord
 
+_Last updated: May 2022._
+
 (16) paid holidays each year including a week off for winter holidays.
 
 (20) vacation days/PTO each year
@@ -86,11 +98,15 @@ Flexible Sick Time.
 
 ## Etsy
 
+_Last updated: May 2022._
+
 ![](https://lh5.googleusercontent.com/g5NPjbFgvz5jRCptpAhEvD9IFpQc_9JiB8GLKUsasMbY5iMkhxRTaVSZIg2w0GRYGNYgiEZNKSisvWoyydWQU8YV2g6Pc7Hj7RsmsuZIUzbrIUFVnNIPbiv8oIanArul3J8o3_3U-U9CZYyzcA)
 
 Also includes 2 floating holidays
 
 ## Facebook
+
+_Last updated: May 2022._
 
 You accrue 21 days/yr, capped at 31.5 days (both regardless of tenure)
 
@@ -108,9 +124,13 @@ The first two were introduced during the pandemic and I'm not sure whether they'
 
 ## Fastly
 
+_Last updated: May 2022._
+
 "Unlimited" PTO
 
 ## Google
+
+_Last updated: May 2022._
 
 PTO: 1-4 years is 20 days, 5+ is 25, accrual cap is 300 hours
 
@@ -120,11 +140,15 @@ You can "borrow" pto you haven't accrued yet up to 5 days.
 
 ## [Greynoise](https://www.greynoise.io/)
 
+_Last updated: May 2022._
+
 Unlimited paid time off. To encourage time off from work and ensure overall employee health and wellness, GreyNoise requires each employee to take at least 120 hours of PTO (3 weeks) annually, including at least five consecutive business days
 
 Source: <https://jobs.greynoise.io/>
 
 ## [GrowthZone](https://www.growthzone.com)
+
+_Last updated: May 2022._
 
 0-2 years: 10 days/3.08 hours per fortnightly pay period
 
@@ -135,6 +159,8 @@ Source: <https://jobs.greynoise.io/>
 No separate sick time. 2 floating holidays per year. No paid maternal or paternal leave.
 
 ## GrubHub
+
+_Last updated: May 2022._
 
 Parental Leave:
 
@@ -150,9 +176,13 @@ PTO:
 
 ## Gusto
 
+_Last updated: May 2022._
+
 Unlimited PTO
 
 ## Kickstarter
+
+_Last updated: May 2022._
 
 Approx. 100 employees.
 
@@ -172,13 +202,19 @@ Vacation days do not roll over from year to year and employees are not eligible 
 
 ## Instacart
 
+_Last updated: May 2022._
+
 "Unlimited" PTO
 
 ## LinkedIn
 
+_Last updated: May 2022._
+
 (Contributor needed!)
 
 ## Microsoft
+
+_Last updated: May 2022._
 
 ### United States
 
@@ -406,9 +442,13 @@ You can carry-forward 5 days to the next calendar year. They are forfeited if no
 
 ## Netflix
 
+_Last updated: May 2022._
+
 "Unlimited" PTO
 
 ## Pokemon Company International
+
+_Last updated: May 2022._
 
 2022 Paid Holidays
 
@@ -527,6 +567,8 @@ Days Accrued
 
 ## Pure Storage
 
+_Last updated: May 2022._
+
 "Unlimited" PTO
 
 ## Salesforce
@@ -542,5 +584,7 @@ Days Accrued
 (Contributor needed!)
 
 ## Uplight
+
+_Last updated: May 2022._
 
 "Unlimited" PTO
