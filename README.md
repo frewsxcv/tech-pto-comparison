@@ -8,8 +8,6 @@ Please add your employer! For questions about this doc, contact Corey (<coreyf@r
 
 _Last updated: May 2022._
 
-(Supposedly very variable across the company?)
-
 ### 🇺🇸 United States
 
 <https://www.amazon.jobs/en/landing_pages/pto-overview-us> (US)
@@ -42,7 +40,7 @@ The company usually shuts down historically between Christmas and New Years. And
 
 _Last updated: May 2022._
 
-### For US Positions
+### 🇺🇸 United States
 
 - Paid Time Off can be taken in either half or full days. 5 days can be rolled over to the next calendar year
 
