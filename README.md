@@ -1,6 +1,8 @@
-# Comparing Company PTO
+# Tech PTO Comparison
 
-Please add your employer! For questions about this doc, contact Corey (<coreyf@rwell.org>)
+A comparison of PTO policies in the tech industry.
+
+Please add your employer by [editing this file](https://github.com/frewsxcv/tech-pto-comparison/edit/main/README.md) or [creating an issue](https://github.com/frewsxcv/tech-pto-comparison/issues/new). If you wish to remain anonymous, you can email your employer’s policy information, to Corey (<coreyf+pto@rwell.org>).
 
 ------------------
 
