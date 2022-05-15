@@ -126,7 +126,7 @@ The first two were introduced during the pandemic and I'm not sure whether they'
 
 _Last updated: May 2022._
 
-"Unlimited" PTO[^1]
+"Unlimited" PTO[^unlimited]
 
 ## 🏢 Google
 
@@ -170,7 +170,7 @@ Birthing Parent: 14 weeks (6+8) paid
 
 PTO:
 
- Engineering: "Unlimited" PTO[^1]
+ Engineering: "Unlimited" PTO[^unlimited]
 
  Hourly Roles: ???
 
@@ -178,7 +178,7 @@ PTO:
 
 _Last updated: May 2022._
 
-"Unlimited" PTO[^1]
+"Unlimited" PTO[^unlimited]
 
 ## 🏢 Kickstarter
 
@@ -204,7 +204,7 @@ Vacation days do not roll over from year to year and employees are not eligible 
 
 _Last updated: May 2022._
 
-"Unlimited" PTO[^1]
+"Unlimited" PTO[^unlimited]
 
 ## 🏢 LinkedIn
 
@@ -251,7 +251,7 @@ You can carry-forward 5 days to the next calendar year. They are forfeited if no
 
 _Last updated: May 2022._
 
-"Unlimited" PTO[^1]
+"Unlimited" PTO[^unlimited]
 
 ## 🏢 Pokemon Company International
 
@@ -276,7 +276,7 @@ TPCi encourages its employees to take time away from the business to recharge! O
 
 _Last updated: May 2022._
 
-"Unlimited" PTO[^1]
+"Unlimited" PTO[^unlimited]
 
 ## 🏢 Salesforce
 
@@ -294,9 +294,9 @@ _Last updated: May 2022._
 
 _Last updated: May 2022._
 
-"Unlimited" PTO[^1]
+"Unlimited" PTO[^unlimited]
 
-[^1]: Despite the name, "Unlimited" PTO is not unlimited
+[^unlimited]: Despite the name, "Unlimited" PTO is not unlimited
 [[1]](https://lifehacker.com/why-unlimited-vacation-days-is-a-scam-1847255661)
 [[2]](https://workforce.com/news/unlimited-paid-time-off-is-a-deceptive-ploy-in-todays-workplace)
 [[3]](https://www.facet.net/posts/why-we-ditched-our-unlimited-vacation-plan)
