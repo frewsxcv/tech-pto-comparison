@@ -4,7 +4,7 @@ Please add your employer! For questions about this doc, contact Corey (<coreyf@r
 
 ------------------
 
-## 18F, USDS, and other US federal agencies
+## 🏢 18F, USDS, and other US federal agencies
 
 _Last updated: May 2022._
 
@@ -12,7 +12,7 @@ _Last updated: May 2022._
 
 Starting PTO is 13 days
 
-## Amazon
+## 🏢 Amazon
 
 _Last updated: May 2022._
 
@@ -38,7 +38,7 @@ _Last updated: May 2022._
 
 3 floating days per year in any full year of employment
 
-## Apple
+## 🏢 Apple
 
 _Last updated: May 2022._
 
@@ -46,7 +46,7 @@ _Last updated: May 2022._
 
 The company usually shuts down historically between Christmas and New Years. And also the week of Thanksgiving.
 
-## Bloomberg
+## 🏢 Bloomberg
 
 _Last updated: May 2022._
 
@@ -66,7 +66,7 @@ _Last updated: May 2022._
 
 - Unlimited sick leave, policy states that on the fourth consecutive sick day you must contact the disability administrator (external company) to see if you should switch to short term disability or some other family/medical leave
 
-## Cisco
+## 🏢 Cisco
 
 _Last updated: May 2022._
 
@@ -82,7 +82,7 @@ _Last updated: May 2022._
 
 - 11 standard company holidays + (as of 2022) 4 additional scheduled days off ("days for me")
 
-## Discord
+## 🏢 Discord
 
 _Last updated: May 2022._
 
@@ -96,7 +96,7 @@ _Last updated: May 2022._
 
 Flexible Sick Time.
 
-## Etsy
+## 🏢 Etsy
 
 _Last updated: May 2022._
 
@@ -104,7 +104,7 @@ _Last updated: May 2022._
 
 Also includes 2 floating holidays
 
-## Facebook
+## 🏢 Facebook
 
 _Last updated: May 2022._
 
@@ -122,13 +122,13 @@ There are also a bunch of PTO-related/adjacent benefits:
 
 The first two were introduced during the pandemic and I'm not sure whether they'll last long-term, but that's this year's policy, at least.
 
-## Fastly
+## 🏢 Fastly
 
 _Last updated: May 2022._
 
 "Unlimited" PTO
 
-## Google
+## 🏢 Google
 
 _Last updated: May 2022._
 
@@ -138,7 +138,7 @@ Sick leave is unlimited up to 5 days consecutively before requiring medical leav
 
 You can "borrow" pto you haven't accrued yet up to 5 days.
 
-## [Greynoise](https://www.greynoise.io/)
+## 🏢 [Greynoise](https://www.greynoise.io/)
 
 _Last updated: May 2022._
 
@@ -146,7 +146,7 @@ Unlimited paid time off. To encourage time off from work and ensure overall empl
 
 Source: <https://jobs.greynoise.io/>
 
-## [GrowthZone](https://www.growthzone.com)
+## 🏢 [GrowthZone](https://www.growthzone.com)
 
 _Last updated: May 2022._
 
@@ -158,7 +158,7 @@ _Last updated: May 2022._
 
 No separate sick time. 2 floating holidays per year. No paid maternal or paternal leave.
 
-## GrubHub
+## 🏢 GrubHub
 
 _Last updated: May 2022._
 
@@ -174,13 +174,13 @@ PTO:
 
  Hourly Roles: ???
 
-## Gusto
+## 🏢 Gusto
 
 _Last updated: May 2022._
 
 Unlimited PTO
 
-## Kickstarter
+## 🏢 Kickstarter
 
 _Last updated: May 2022._
 
@@ -200,19 +200,19 @@ Additionally, there is a winter break (office closure) during the last week of D
 
 Vacation days do not roll over from year to year and employees are not eligible to be compensated for unused vacation days upon separation from Kickstarter (unless required by local/state law).
 
-## Instacart
+## 🏢 Instacart
 
 _Last updated: May 2022._
 
 "Unlimited" PTO
 
-## LinkedIn
+## 🏢 LinkedIn
 
 _Last updated: May 2022._
 
 (Contributor needed!)
 
-## Microsoft
+## 🏢 Microsoft
 
 _Last updated: May 2022._
 
@@ -440,13 +440,13 @@ In addition to regular Vacation Entitlement, all employees are eligible for 2 Fl
 
 You can carry-forward 5 days to the next calendar year. They are forfeited if not used by December 31 of that following year.
 
-## Netflix
+## 🏢 Netflix
 
 _Last updated: May 2022._
 
 "Unlimited" PTO
 
-## Pokemon Company International
+## 🏢 Pokemon Company International
 
 _Last updated: May 2022._
 
@@ -565,25 +565,25 @@ Days Accrued
 
  |
 
-## Pure Storage
+## 🏢 Pure Storage
 
 _Last updated: May 2022._
 
 "Unlimited" PTO
 
-## Salesforce
+## 🏢 Salesforce
 
 (Contributor needed!)
 
-## SoundCloud
+## 🏢 SoundCloud
 
 (Contributor needed!)
 
-## Spotify
+## 🏢 Spotify
 
 (Contributor needed!)
 
-## Uplight
+## 🏢 Uplight
 
 _Last updated: May 2022._
 
