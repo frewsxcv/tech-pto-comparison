@@ -2,7 +2,7 @@
 
 A comparison of PTO policies in the tech industry.
 
-Please add your employer by [editing this file](https://github.com/frewsxcv/tech-pto-comparison/edit/main/README.md) or [creating an issue](https://github.com/frewsxcv/tech-pto-comparison/issues/new). If you wish to remain anonymous, you can email your employer’s policy information, to Corey (<coreyf+pto@rwell.org>).
+Please add your employer by [editing this file](https://github.com/frewsxcv/tech-pto-comparison/edit/main/README.md) or [creating an issue](https://github.com/frewsxcv/tech-pto-comparison/issues/new). If you wish to remain anonymous, you can email your employer’s policy information to [Corey](https://github.com/frewsxcv) at <coreyf+pto@rwell.org>.
 
 ------------------
 
