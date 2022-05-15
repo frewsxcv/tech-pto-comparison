@@ -22,13 +22,10 @@ _Last updated: May 2022._
 
 <https://www.amazon.jobs/en/landing_pages/pto-california-corp> (California)
 
-0 years: 120 hours (per year)
-
-1 - 5 years: 160 hours (per year)
-
-6+ years: 200 hours (per year)
-
-3 floating days per year in any full year of employment
+- 0 years: 120 hours (per year)
+- 1 - 5 years: 160 hours (per year)
+- 6+ years: 200 hours (per year)
+- 3 floating days per year in any full year of employment
 
 ## 🏢 Apple
 
@@ -63,30 +60,21 @@ _Last updated: May 2022._
 _Last updated: May 2022._
 
 - 20 days of base PTO per year regardless of tenure. Employees are generally forced to take 4-6 of these days during the annual company "shutdown" between Christmas and New Years, however.
-
 - 1 "floating holiday" (nearly indistinguishable from PTO but does not accrue in the same way)
-
 - 10 "Time2Give" days to do volunteer work etc.
-
 - 1 day off for your birthday
-
 - "Emergency Time Off" - to be used for serious illness, bereavement, family emergencies, etc. - is separate from standard PTO and does not have an explicit limit
-
 - 11 standard company holidays + (as of 2022) 4 additional scheduled days off ("days for me")
 
 ## 🏢 Discord
 
 _Last updated: May 2022._
 
-(16) paid holidays each year including a week off for winter holidays.
-
-(20) vacation days/PTO each year
-
-(1) birthday day off.
-
-(2) volunteer days to support a cause or non-profit.
-
-Flexible Sick Time.
+- (16) paid holidays each year including a week off for winter holidays.
+- (20) vacation days/PTO each year
+- (1) birthday day off.
+- (2) volunteer days to support a cause or non-profit.
+- Flexible Sick Time.
 
 ## 🏢 Etsy
 
@@ -105,11 +93,8 @@ You accrue 21 days/yr, capped at 31.5 days (both regardless of tenure)
 There are also a bunch of PTO-related/adjacent benefits:
 
 - 2 extra "Choice Days" per year, which are pretty much PTO days outside of the accrual process
-
 - 5 "Meta Days" each year (company days off)
-
 - you can use up to 10 days of PTO you haven't accrued yet
-
 - every 5 years you can take a 30-day paid recharge leave
 
 The first two were introduced during the pandemic and I'm not sure whether they'll last long-term, but that's this year's policy, at least.
@@ -142,11 +127,9 @@ Source: <https://jobs.greynoise.io/>
 
 _Last updated: May 2022._
 
-0-2 years: 10 days/3.08 hours per fortnightly pay period
-
-3-4 years: 15 days/4.62 hours per fortnightly pay period
-
-5+ years: 20 days/6.15 hours per fortnightly pay period
+- 0-2 years: 10 days/3.08 hours per fortnightly pay period
+- 3-4 years: 15 days/4.62 hours per fortnightly pay period
+- 5+ years: 20 days/6.15 hours per fortnightly pay period
 
 No separate sick time. 2 floating holidays per year. No paid maternal or paternal leave.
 
