@@ -31,7 +31,17 @@ _Last updated: May 2022._
 
 _Last updated: May 2022._
 
-![](https://lh3.googleusercontent.com/TUvVexeG9YRqLFn4eLzebTQolGOK1NZXSVqP9CknuDRCAWIMgUiN4qijYayO07Ch5Dk7x1wM-ylFInwl0UUgrt0bD8tKUgmlhwMsiskKCQiXX_3WTPLk4CFM54wr28eXevCQi-oee8D19UD7_w)
+| If you've worked at Apple for: | You earn this time per paycheck: | Up to this much a year: |
+|--------------------------------|----------------------------------|-------------------------|
+| Less than 3 years              | 3.7 hours                        | 12 days                 |
+| 3 years                        | 4.62 hours                       | 15 days                 |
+| 4 years                        | 4.92 hours                       | 16 days                 |
+| 5 years                        | 5.23 hours                       | 17 days                 |
+| 6 years                        | 5.54 hours                       | 18 days                 |
+| 7 years                        | 5.85 hours                       | 19 days                 |
+| 8 years                        | 6.15 hours                       | 20 days                 |
+| 9 years                        | 6.46 hours                       | 21 days                 |
+| 10+ years                      | 6.77 hours                       | 22 days                 |
 
 The company usually shuts down historically between Christmas and New Years. And also the week of Thanksgiving.
 
