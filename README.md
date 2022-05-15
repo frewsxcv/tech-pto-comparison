@@ -296,8 +296,6 @@ _Last updated: May 2022._
 
 "Unlimited" PTO[^1]
 
-------------------
-
 [^1]: Despite the name, "Unlimited" PTO is not unlimited
 [[1]](https://lifehacker.com/why-unlimited-vacation-days-is-a-scam-1847255661)
 [[2]](https://workforce.com/news/unlimited-paid-time-off-is-a-deceptive-ploy-in-todays-workplace)
