@@ -1,1 +1,575 @@
-# comparing-tech-pto
+Comparing Company PTO
+
+Please add your employer! For questions about this doc, contact Corey (<coreyf@rwell.org>)
+
+------------------
+
+18F, USDS, and other US federal agencies
+========================================
+
+<https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/>
+
+Starting PTO is 13 days
+
+Amazon
+======
+
+(Supposedly very variable across the company?)
+
+United States Amazon employees
+------------------------------
+
+<https://www.amazon.jobs/en/landing_pages/pto-overview-us> (US)
+
+![](https://lh5.googleusercontent.com/BHpnk5pBYGGrOwyjsv-MT5tsAGsx30l-4kFSnZkvzUSZ_9c3dQbTzHfdE7FWryrQxxJ3dCzZg0e-qCVUt_nynDbUfvXu7fiaDhUribKsvHBsL6domxO1ISwzznXIbuvvB-E9DTgWbar9EvcA9Q)
+
+![](https://lh4.googleusercontent.com/b5mNbkDUVhKt_lYSJD5CvPNn9xkCNHP8D7wZhYuW6fMNdtNSpWZ0rlz8gqyvn1CXYtHYGx3z4Juu5vqzQ_BK2sEuf_avSISBBqcEuyuBwcdhE2SUgnZCUTqPG0kkMaV_VUdoNaOdRhtownUDhg)
+
+California Amazon employees
+---------------------------
+
+<https://www.amazon.jobs/en/landing_pages/pto-california-corp> (California)
+
+0 years: 120 hours (per year)
+
+1 - 5 years: 160 hours (per year)
+
+6+ years: 200 hours (per year)
+
+3 floating days per year in any full year of employment
+
+Apple
+=====
+
+![](https://lh3.googleusercontent.com/TUvVexeG9YRqLFn4eLzebTQolGOK1NZXSVqP9CknuDRCAWIMgUiN4qijYayO07Ch5Dk7x1wM-ylFInwl0UUgrt0bD8tKUgmlhwMsiskKCQiXX_3WTPLk4CFM54wr28eXevCQi-oee8D19UD7_w)
+
+The company usually shuts down historically between Christmas and New Years. And also the week of Thanksgiving.
+
+Bloomberg
+=========
+
+### For US Positions
+
+-   Paid Time Off can be taken in either half or full days. 5 days can be rolled over to the next calendar year
+
+-   20 days per year until 10 years of service
+
+-   23 days per year from 10 to 19 years of service
+
+-   25 days per year after 20 years of service
+
+-   Holiday calendar is taken from the [NYSE trading holiday calendar](https://www.nyse.com/markets/hours-calendars)
+
+-   Guaranteed 11 paid holiday days per year, when there are fewer than 11 non-trading days in the NYSE calendar they are added to that year's leave balance
+
+-   Unlimited sick leave, policy states that on the fourth consecutive sick day you must contact the disability administrator (external company) to see if you should switch to short term disability or some other family/medical leave
+
+Cisco
+=====
+
+-   20 days of base PTO per year regardless of tenure. Employees are generally forced to take 4-6 of these days during the annual company "shutdown" between Christmas and New Years, however.
+
+-   1 "floating holiday" (nearly indistinguishable from PTO but does not accrue in the same way)
+
+-   10 "Time2Give" days to do volunteer work etc.
+
+-   1 day off for your birthday
+
+-   "Emergency Time Off" - to be used for serious illness, bereavement, family emergencies, etc. - is separate from standard PTO and does not have an explicit limit
+
+-   11 standard company holidays + (as of 2022) 4 additional scheduled days off ("days for me")
+
+Discord
+=======
+
+(16) paid holidays each year including a week off for winter holidays.
+
+(20) vacation days/PTO each year
+
+(1) birthday day off.
+
+(2) volunteer days to support a cause or non-profit.
+
+Flexible Sick Time.
+
+Etsy
+====
+
+![](https://lh5.googleusercontent.com/g5NPjbFgvz5jRCptpAhEvD9IFpQc_9JiB8GLKUsasMbY5iMkhxRTaVSZIg2w0GRYGNYgiEZNKSisvWoyydWQU8YV2g6Pc7Hj7RsmsuZIUzbrIUFVnNIPbiv8oIanArul3J8o3_3U-U9CZYyzcA)
+
+Also includes 2 floating holidays
+
+Facebook
+========
+
+You accrue 21 days/yr, capped at 31.5 days (both regardless of tenure)
+
+There are also a bunch of PTO-related/adjacent benefits:
+
+-   2 extra "Choice Days" per year, which are pretty much PTO days outside of the accrual process
+
+-   5 "Meta Days" each year (company days off)
+
+-   you can use up to 10 days of PTO you haven't accrued yet
+
+-   every 5 years you can take a 30-day paid recharge leave
+
+The first two were introduced during the pandemic and I'm not sure whether they'll last long-term, but that's this year's policy, at least.
+
+Fastly
+======
+
+"Unlimited" PTO
+
+Google
+======
+
+PTO: 1-4 years is 20 days, 5+ is 25, accrual cap is 300 hours
+
+Sick leave is unlimited up to 5 days consecutively before requiring medical leave
+
+You can "borrow" pto you haven't accrued yet up to 5 days.
+
+[Greynoise](https://www.greynoise.io/)
+======================================
+
+Unlimited paid time off. To encourage time off from work and ensure overall employee health and wellness, GreyNoise requires each employee to take at least 120 hours of PTO (3 weeks) annually, including at least five consecutive business days
+
+Source: <https://jobs.greynoise.io/>
+
+[GrowthZone](https://www.growthzone.com)
+========================================
+
+0-2 years: 10 days/3.08 hours per fortnightly pay period
+
+3-4 years: 15 days/4.62 hours per fortnightly pay period
+
+5+ years: 20 days/6.15 hours per fortnightly pay period
+
+No separate sick time. 2 floating holidays per year. No paid maternal or paternal leave.
+
+GrubHub
+=======
+
+Parental Leave: 
+
+Birthing Parent: 14 weeks (6+8) paid
+
+ Non-Birthing Parent: 8 weeks paid
+
+PTO:
+
+ Engineering: Unlimited
+
+ Hourly Roles: ???
+
+Gusto 
+======
+
+Unlimited PTO
+
+Kickstarter 
+============
+
+Approx. 100 employees.
+
+Normally, the vacation policy reads:
+
+Full-time employees may accrue up to twenty-one (21) days (168 hours) of paid vacation/PTO per year.  Vacation/PTO days are accrued on a monthly basis at a rate of 1.75 days (12 hours) per month.  Part-time employees may accrue vacation/PTO at a rate of two (2) hours for every thirty (30) hours worked.
+
+Kickstarter is presently doing a 4 day work week pilot, during this pilot, the PTO accrual schedule has changed it's text to:
+
+All full-time Kickstarter staff are encouraged to enjoy our PTO / Vacation policy ("PTO" or "Vacation") to travel, pursue personal projects, rest, and relax. We encourage every member of the team to take 16 days of vacation each calendar year. Vacation days are accrued on a monthly basis at a rate of 1.33 days per month.
+
+Because the pilot started during Q2 2022, this year we have 17 days of PTO total.
+
+Additionally, there is a winter break (office closure) during the last week of December.
+
+Vacation days do not roll over from year to year and employees are not eligible to be compensated for unused vacation days upon separation from Kickstarter (unless required by local/state law).
+
+Instacart
+=========
+
+"Unlimited" PTO
+
+LinkedIn
+========
+
+(Contributor needed!)
+
+Microsoft
+=========
+
+United States
+-------------
+
+|
+
+Vacation accrual schedule for full-time salaried employees
+
+ |\
+ |
+|
+
+Years of service
+
+ |
+
+Vacation grant rate*
+
+(per pay period x 24)
+
+ |
+
+Maximum
+
+annual vacation granted
+
+ |
+
+Maximum carry over grant to next year 
+
+ |
+|
+
+0-6 years
+
+ |
+
+5.0 hours
+
+ |
+
+15 days (120 hours)
+
+ |
+
+15 days 
+
+ |
+|
+
+7-12 years
+
+ |
+
+6.67 hours
+
+ |
+
+20 days (160 hours)
+
+ |
+
+20 days 
+
+ |
+|
+
+13 or more years
+
+ |
+
+8.34 hours
+
+ |
+
+25 days (200 hours)
+
+ |
+
+25 days 
+
+ |
+|
+
+Part-time employees' vacation accrual rate and maximum annual vacation are pro-rated based on the percentage of full-time hours worked.
+
+ |
+
+|
+
+Vacation accrual schedule for full-time hourly employees
+
+ |\
+ |
+| --- | --- |
+|
+
+Years of service
+
+ |
+
+Vacation grant rate*
+
+(per pay period x 26)
+
+ |
+
+Maximum
+
+annual vacation granted
+
+ |
+
+Maximum carry over grant to next year 
+
+ |
+| --- | --- | --- | --- |
+|
+
+0-6 years
+
+ |
+
+4.62 hours
+
+ |
+
+15 days (120 hours)
+
+ |
+
+15 days 
+
+ |
+| --- | --- | --- | --- |
+|
+
+7-12 years
+
+ |
+
+6.16 hours
+
+ |
+
+20 days (160 hours)
+
+ |
+
+20 days 
+
+ |
+|
+
+13 or more years
+
+ |
+
+7.7 hours
+
+ |
+
+25 days (200 hours)
+
+ |
+
+25 days 
+
+ |
+|
+
+Part-time employees' vacation accrual rate and maximum annual vacation are pro-rated based on the percentage of full-time hours worked.
+
+ |
+
+Canada
+------
+
+|
+
+Years of service
+
+ |
+
+Vacation entitlement
+
+ |
+|
+
+New hire
+
+ |
+
+1.5 day for each month of service
+
+ |
+|
+
+1 to 5 years
+
+ |
+
+20 days
+
+ |
+|
+
+6 to 12 years
+
+ |
+
+23 days
+
+ |
+|
+
+13+ and more years
+
+ |
+
+25 days\
+ |
+
+In addition to regular Vacation Entitlement, all employees are eligible for 2 Floater Days. Provided that employees have sufficient personal days remaining, they are welcome to use that day for observance of days which are not official statutory holidays. Unused Floater Days cannot be carried over to the next calendar year and will be forfeited.
+
+You can carry-forward 5 days to the next calendar year. They are forfeited if not used by December 31 of that following year.
+
+Netflix
+=======
+
+"Unlimited" PTO
+
+Pokemon Company International
+=============================
+
+2022 Paid Holidays 
+
+TPCi observes the following paid holidays: New Year's Day, Martin Luther King Jr. Day, the Friday prior to Memorial Day and Memorial Day, Fourth of July, Labor Day, Thanksgiving Day, and the day after Thanksgiving. In addition, TPCi observes a holiday week at the end of the calendar year. In addition, TPCi provides two (2) paid days for floating holidays per calendar year. 
+
+Paid Time Off 
+
+TPCi encourages its employees to take time away from the business to recharge! Our current accrual schedule is as follows:
+
+|
+
+Years of Service
+
+ |
+
+Accrual Rate Per
+
+Bi‐Weekly Pay
+
+Period
+
+ |
+
+Annual # of Days
+
+Accrued
+
+ |
+
+Maximum # of
+
+Days Accrued
+
+ |
+|
+
+0 to 3.99 years of service
+
+(Years 1, 2, 3)
+
+ |
+
+0.77 Days
+
+(6.15 hours)
+
+ |
+
+20
+
+ |
+
+40
+
+ |
+|
+
+4.0 to 5.99 years of service
+
+(Years 4, 5)
+
+ |
+
+0.96 Days
+
+(7.69 hours)\
+ |
+
+25
+
+ |
+
+50
+
+ |
+|
+
+6.0 to 9.99 years of service
+
+(Years 6, 7, 8, 9)
+
+ |
+
+1.15 Days (9.23 hours)
+
+ |
+
+30
+
+ |
+
+60
+
+ |
+|
+
+10+ years of service
+
+(Years 10+)
+
+ |
+
+1.34 Days
+
+(10.77 hours)
+
+ |
+
+35
+
+ |
+
+70
+
+ |
+
+Pure Storage
+============
+
+"Unlimited" PTO
+
+Salesforce
+==========
+
+(Contributor needed!)
+
+SoundCloud
+==========
+
+(Contributor needed!)
+
+Spotify
+=======
+
+(Contributor needed!)
+
+Uplight
+=======
+
+"Unlimited" PTO
