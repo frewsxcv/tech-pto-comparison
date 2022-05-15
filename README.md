@@ -10,7 +10,7 @@ Please add your employer by [editing this file](https://github.com/frewsxcv/tech
 
 _Last updated: May 2022._
 
-### 🇺🇸 United States
+### 🇺🇸 Amazon (US)
 
 <https://www.amazon.jobs/en/landing_pages/pto-overview-us> (US)
 
@@ -18,7 +18,7 @@ _Last updated: May 2022._
 
 ![](https://lh4.googleusercontent.com/b5mNbkDUVhKt_lYSJD5CvPNn9xkCNHP8D7wZhYuW6fMNdtNSpWZ0rlz8gqyvn1CXYtHYGx3z4Juu5vqzQ_BK2sEuf_avSISBBqcEuyuBwcdhE2SUgnZCUTqPG0kkMaV_VUdoNaOdRhtownUDhg)
 
-### 🇺🇸 California
+### 🇺🇸 Amazon (California)
 
 <https://www.amazon.jobs/en/landing_pages/pto-california-corp> (California)
 
@@ -39,7 +39,7 @@ The company usually shuts down historically between Christmas and New Years. And
 
 _Last updated: May 2022._
 
-### 🇺🇸 United States
+### 🇺🇸 Bloomberg (US)
 
 - Paid Time Off can be taken in either half or full days. 5 days can be rolled over to the next calendar year
 
@@ -191,7 +191,7 @@ _Last updated: May 2022._
 
 _Last updated: May 2022._
 
-### 🇺🇸 United States
+### 🇺🇸 Microsoft (US)
 
 | Vacation accrual schedule for full-time salaried employees |                                             |                                 |                                           |
 |------------------------------------------------------------|---------------------------------------------|---------------------------------|-------------------------------------------|
@@ -209,7 +209,7 @@ _Last updated: May 2022._
 | 13 or more years                                         | 7.7 hours                                   | 25 days (200 hours)             | 25 days                                   |
 | Part-time employees' vacation accrual rate and maximum annual vacation are pro-rated based on the percentage of full-time hours worked. |
 
-### 🇨🇦 Canada
+### 🇨🇦 Microsoft (CA)
 
 | Years of service | Vacation entitlement              |
 |------------------|-----------------------------------|
