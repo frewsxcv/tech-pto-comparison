@@ -193,9 +193,13 @@ _Last updated: May 2022._
 
 ## 🏢 LinkedIn
 
-_Last updated: May 2022._
+_Last updated: July 2022._
 
-(Contributor needed!)
+"Unlimited PTO[^unlimited]. The company refers to it as Discretionary Time Off (DTO).
+
+Two [week-long company shutdowns per year](https://www.businessinsider.com/linkedin-vp-explains-company-shutdown-perk-2016-12).
+
+One Friday per month is an [InDay](https://blog.linkedin.com/2015/07/29/inday-investing-in-our-employees-so-they-can-invest-in-themselves), which employees can use to focus on themselves, the world, or their family.
 
 ## 🏢 Microsoft
 
