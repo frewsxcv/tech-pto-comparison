@@ -313,6 +313,12 @@ See [Salesforce](#-salesforce).
 
 (Contributor needed!)
 
+## 🏢 Stripe
+
+_Last updated: May 2023._
+
+Stripe (in the US) does 21 days of PTO, 10 holidays (including Christmas / New Years / Thanksgiving), and an office shutdown between Christmas and New Years. 20 weeks parental leave for the birthing parent and 16 for non-birthing.
+
 ## 🏢 Twitch
 
 _Last updated: May 2023._
