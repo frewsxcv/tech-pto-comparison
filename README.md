@@ -295,7 +295,11 @@ _Last updated: May 2022._
 
 ## 🏢 Salesforce
 
-(Contributor needed!)
+"Unlimited" PTO[^unlimited] for salaried US employees. ([source](https://www.salesforcebenefits.com/us/time-off.html))
+
+## 🏢 Slack
+
+See [Salesforce](#-salesforce).
 
 ## 🏢 SoundCloud
 
