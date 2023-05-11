@@ -256,6 +256,18 @@ _Last updated: May 2022._
 
 Starting PTO is 13 days
 
+## 🏢 Notion
+
+_Last updated: May 2023._
+
+"Unlimited" PTO[^unlimited], 10+ holidays, and 4 months parental leave for any parent (birthing, non-birthing biological, adoptive, and foster parents).
+
+## 🏢 PagerDuty
+
+_Last updated: April 2022._
+
+15 days of PTO in your first year and you are required to use 5 of them for the "company shutdown" at the end of December.
+
 ## 🏢 Pokemon Company International
 
 _Last updated: May 2022._
