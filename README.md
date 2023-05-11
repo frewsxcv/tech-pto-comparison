@@ -90,7 +90,7 @@ _Last updated: May 2022._
 
 _Last updated: December 2022._
 
-"Unlimited" PTO[^unlimited] with guidance on minimum and maximum number of days.
+"Unlimited" PTO[^unlimited] with guidance on minimum and maximum number of days. Non-exempt full time employees accrue PTO on an hourly basis and don't quality for the unlimited policy.
 
 ## 🏢 Etsy
 
@@ -295,9 +295,13 @@ _Last updated: May 2022._
 
 ## 🏢 Salesforce
 
+_Last updated: May 2023._
+
 "Unlimited" PTO[^unlimited] for salaried US employees. ([source](https://www.salesforcebenefits.com/us/time-off.html))
 
 ## 🏢 Slack
+
+_Last updated: May 2023._
 
 See [Salesforce](#-salesforce).
 
