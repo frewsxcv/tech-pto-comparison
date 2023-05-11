@@ -86,6 +86,12 @@ _Last updated: May 2022._
 - (2) volunteer days to support a cause or non-profit.
 - Flexible Sick Time.
 
+## 🏢 DoorDash
+
+_Last updated: December 2022._
+
+"Unlimited" PTO[^unlimited] with guidance on minimum and maximum number of days.
+
 ## 🏢 Etsy
 
 _Last updated: May 2022._
@@ -286,6 +292,14 @@ _Last updated: May 2022._
 ## 🏢 Spotify
 
 (Contributor needed!)
+
+## 🏢 Twitch
+
+_Last updated: May 2023._
+
+### 🇺🇸 Twitch (US)
+
+"Unlimited" PTO[^unlimited], despite being an Amazon subsidiary.
 
 ## 🏢 Uplight
 
