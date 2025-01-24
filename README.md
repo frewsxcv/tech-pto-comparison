@@ -67,7 +67,11 @@ _Last updated: May 2022._
 
 ## 🏢 Cisco
 
-_Last updated: May 2022._
+_Last updated: October 2023._
+
+"Unlimited" PTO[^unlimited]
+
+_Prior to October 2023:_
 
 - 20 days of base PTO per year regardless of tenure. Employees are generally forced to take 4-6 of these days during the annual company "shutdown" between Christmas and New Years, however.
 - 1 "floating holiday" (nearly indistinguishable from PTO but does not accrue in the same way)
