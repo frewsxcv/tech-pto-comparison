@@ -319,6 +319,12 @@ _Last updated: May 2023._
 
 Stripe (in the US) does 21 days of PTO, 10 holidays (including Christmas / New Years / Thanksgiving), and an office shutdown between Christmas and New Years. 20 weeks parental leave for the birthing parent and 16 for non-birthing.
 
+## 🏢 Tailscale
+
+* 12 statutory/paid holidays; based on location, but for regions with <12 statutory holidays, Tailscale tops up with 'float days' to 12.
+* Holiday closure between Christmas and New Years Day
+* Untracked PTO otherwise, with the guidance: "You can take time off by submitting a request, with 4-6 weeks being a reasonable amount of time to take annually. We recommend that you break up this time throughout the year to regularly have time to disconnect and refresh."
+
 ## 🏢 Twitch
 
 _Last updated: May 2023._
