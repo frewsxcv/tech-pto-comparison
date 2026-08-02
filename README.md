@@ -1,3 +1,5 @@
+**⚠️ This repository has moved to <https://tangled.org/rwell.org/tech-pto-comparison> ⚠️**
+
 # Tech PTO Comparison
 
 A comparison of PTO policies in the tech industry.
